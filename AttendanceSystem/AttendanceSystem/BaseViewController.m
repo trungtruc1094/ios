@@ -2,17 +2,17 @@
 //  ViewController.m
 //  AttendanceSystem
 //
-//  Created by TamTran on 1/24/18.
-//  Copyright © 2018 TamTran. All rights reserved.
+//  Created by TrungTruc on 1/24/18.
+//  Copyright © 2018 TrungTruc. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "BaseViewController.h"
 
-@interface ViewController ()
+@interface BaseViewController ()
 
 @end
 
-@implementation ViewController
+@implementation BaseViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
